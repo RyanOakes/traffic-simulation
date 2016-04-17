@@ -1,3 +1,7 @@
 Python3
 
-Random Library Import
+MathPlot Library
+matplotlib==1.5.1
+
+NumPy 
+numpy==1.11.0
