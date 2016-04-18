@@ -45,4 +45,4 @@ atom
 
 ## Authors
 
-The authors of road_rage.py were David Mohrmann and Ryan Oakes.
+The authors are David Mohrmann and Ryan Oakes.
